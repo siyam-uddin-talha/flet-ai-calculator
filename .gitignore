@@ -1,0 +1,9 @@
+.env
+.venv
+build
+dist
+
+example.txt
+main.spec
+
+*.ico
